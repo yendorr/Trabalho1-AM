@@ -16,4 +16,5 @@ Construção de 3 modelos de aprendizado de máquina (árvore de decisão, SVM, 
 
 Visualização de uma das árvores de decisão
 
+## Métricas dos modelos
 ![Resultados](https://github.com/yendorr/Trabalho1-AM/blob/main/imgs/resultados.png)
