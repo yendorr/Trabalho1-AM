@@ -12,7 +12,7 @@ Criação de um _colum tansformer_ que pré-processa os dados, aplicando _one ho
 
 A base de dados é dividida por padrão em dois arquivos, um contendo 66% dos registros e o outro contendo os 33% restantes.
 
-Construção de 3 modelos de aprendizado de máquina (árvore de decisão, SVM, regressão logistica) para a previsão Previsão da faixa salárial de uma pessoa. São criados outros dois modelos com _grid search_ com o intuito de otimizar os parametros dos modelos SVM e árvore de regressão e comparar os resultados.
+Construção de 3 modelos de aprendizado de máquina (árvore de decisão, SVM, regressão logística) para a previsão Previsão da faixa salarial de uma pessoa. São criados outros dois modelos com _grid search_ com o intuito de otimizar os parâmetros dos modelos SVM e árvore de regressão e comparar os resultados.
 
 Visualização de uma das árvores de decisão
 
