@@ -2,7 +2,7 @@
 ## Etapas do projeto
 Análise exploratória da base de dados _Adult Data Set_ (https://archive.ics.uci.edu/ml/datasets/Adult), procurando por correlções entre os atributos. 
 
-Verificação das distribuições destes atributos com dois histogramas sobrepostos por atibuto, onde ambos os histogramas dizem respeito a uma das duas faixas salariais. 
+Verificação das distribuições destes atributos com dois histogramas sobrepostos por atributo, onde ambos os histogramas dizem respeito a uma das duas faixas salariais. 
 
 Verificação das distribuições de idade utilizando _blox-plots_, dividindo as pessoas por sua faixa salarial e diversos outros atributos.
 
